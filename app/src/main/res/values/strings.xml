@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Let\'s Convert</string>
+    <string name="mass">Mass</string>
+    <string name="len">Length</string>
+    <string name="data">Data</string>
+    <string name="bmi">BMI</string>
+    <string name="temp">Temperature</string>
+    <string name="dis">Discount</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    
+    <string name="app_id">ca-app-pub-8469643620082575~3897898629</string>
+    <string name="banner_ad_homepg_main">ca-app-pub-8469643620082575/4462318481</string>
+    <string name="banner_ad_homepg_test">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="inter_ad_main">ca-app-pub-8469643620082575/1453011763</string>
+    <string name="inter_ad_test">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
